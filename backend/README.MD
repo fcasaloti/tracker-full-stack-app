@@ -9,7 +9,9 @@ This app receives requests from the frontend to post and get data. This server i
 * /.env contains the variable that stores the string to connect on the MongoDB Database.
 * /server.js is the main file.
 
-To use this aplication, you need to have Node,js on your computer. Inside the frontend folder, execute the command "npm install", and then "npm start".
+To use this aplication, you need to have Node.js on your computer. Also, you need to create an account on https://www.mongodb.com/cloud/atlas and get your connection string. After get this information, you have to set it on "/.env" file.
+
+Inside the frontend folder, execute the command "npm install", and then "npm start".
 
 
 
