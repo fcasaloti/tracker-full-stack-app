@@ -1,4 +1,4 @@
-# tracker-full-stack-app
+# tracker-fullstack-app
 
 This application uses MERN (MongoDB, Express, React, Node) to create a simple application that allows users to create, delete, edit, and display simple Tasks.
 
