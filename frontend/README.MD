@@ -9,7 +9,7 @@ The main purpose of this frontend is to provide means to get data from the user 
 * /App.js is responsible to import all the components and routing among them
 * /index.js is responsible to render data on DOM.
 
-To use this aplication, you need to have Node,js on your computer. Inside the frontend folder, execute the command "npm install", and then "npm start".
+To use this aplication, you need to have NPM on your computer. Inside the frontend folder, execute the command "npm install", and then "npm start".
 
 
 
